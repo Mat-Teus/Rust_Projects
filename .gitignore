@@ -1,1 +1,6 @@
 gerenciador_de_senhas/
+/target
+**/*.pdb
+**/*.rlib
+**/*.exe
+.DS_Store
